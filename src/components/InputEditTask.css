@@ -1,0 +1,19 @@
+body {
+  width: 100%;
+}
+input {
+  padding: 8px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  width: auto;
+}
+.save-btn {
+  border: none;
+  padding: 6px 12px;
+  background-color: purple;
+  color: white;
+  border-radius: 5px;
+  cursor: pointer;
+  min-width: 70px;
+  margin-left: 10px;
+}
